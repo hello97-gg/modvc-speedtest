@@ -1,0 +1,32 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1a1a1a"/>
+  
+  <!-- Logo bars -->
+  <g transform="translate(520, 180)">
+    <rect x="0" y="60" width="20" height="40" fill="#10B981"/>
+    <rect x="32" y="40" width="20" height="60" fill="#10B981"/>
+    <rect x="64" y="20" width="20" height="80" fill="#10B981"/>
+    <rect x="96" y="0" width="20" height="100" fill="#10B981"/>
+    <rect x="128" y="20" width="20" height="80" fill="#10B981" opacity="0.4"/>
+  </g>
+  
+  <!-- Brand text -->
+  <text x="600" y="340" font-family="Inter, -apple-system, sans-serif" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">
+    MODVC<tspan fill="#10B981">Speed</tspan>
+  </text>
+  
+  <!-- Tagline -->
+  <text x="600" y="400" font-family="Inter, -apple-system, sans-serif" font-size="24" fill="#888888" text-anchor="middle">
+    Test Your Internet Speed Instantly
+  </text>
+  
+  <!-- Features -->
+  <text x="600" y="460" font-family="Inter, -apple-system, sans-serif" font-size="18" fill="#666666" text-anchor="middle">
+    Download • Upload • Latency • Free • No Ads
+  </text>
+  
+  <!-- URL -->
+  <text x="600" y="580" font-family="Inter, -apple-system, sans-serif" font-size="20" fill="#10B981" text-anchor="middle">
+    test.modvc.org
+  </text>
+</svg>
